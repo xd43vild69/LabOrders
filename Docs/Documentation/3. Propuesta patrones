@@ -1,0 +1,7 @@
+3. Propuesta patrones de diseño.
+
+- Se construye un Singleton para la inyección de dependencias en el Componente Web.API.
+
+- Se implementa un Repositorio para la capa de Acceso a Datos.
+
+- Todos los metodos estan pensados aplicando los principios SOLID y KISS.
